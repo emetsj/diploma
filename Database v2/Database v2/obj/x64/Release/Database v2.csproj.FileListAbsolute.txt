@@ -1,0 +1,87 @@
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\bin\x64\Release\Database v2.exe.config
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\bin\x64\Release\Database1.accdb
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\bin\x64\Release\Database v2.exe
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\bin\x64\Release\Database v2.pdb
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Main.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Passengers.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.PassengersNewAdd.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.PlaceTrain.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Properties.Resources.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Route.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Stations.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Ticket.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Trace.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Train.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Type.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.Wait.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database v2.csproj.GenerateResource.Cache
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database v2.exe
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database v2.pdb
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database v2.csprojResolveAssemblyReference.cache
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.PlaceTrainNew.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.RouteNew.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.StationsNew.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.TicketSell.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.TraceNew.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.TrainNew.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\x64\Release\Database_v2.TypeNew.resources
+H:\Database v2\Database v2\bin\x64\Release\Database v2.exe.config
+H:\Database v2\Database v2\obj\x64\Release\Database v2.exe
+H:\Database v2\Database v2\obj\x64\Release\Database v2.pdb
+H:\Database v2\Database v2\bin\x64\Release\Database1.accdb
+H:\Database v2\Database v2\bin\x64\Release\Database v2.exe
+H:\Database v2\Database v2\bin\x64\Release\Database v2.pdb
+H:\Database v2\Database v2\obj\x64\Release\Database v2.csprojResolveAssemblyReference.cache
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Main.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Passengers.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.PassengersNewAdd.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.PlaceTrain.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.PlaceTrainNew.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Properties.Resources.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Route.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.RouteNew.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Stations.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.StationsNew.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Ticket.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.TicketSell.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Trace.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.TraceNew.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Train.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.TrainNew.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Type.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.TypeNew.resources
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.Wait.resources
+H:\Database v2\Database v2\obj\x64\Release\Database v2.csproj.GenerateResource.Cache
+H:\Database v2\Database v2\obj\x64\Release\Database_v2.WaitN.resources
+I:\Database v2\Database v2\bin\x64\Release\Database v2.exe.config
+I:\Database v2\Database v2\obj\x64\Release\Database v2.exe
+I:\Database v2\Database v2\obj\x64\Release\Database v2.pdb
+I:\Database v2\Database v2\bin\x64\Release\Database1.accdb
+I:\Database v2\Database v2\bin\x64\Release\Database v2.exe
+I:\Database v2\Database v2\bin\x64\Release\Database v2.pdb
+I:\Database v2\Database v2\obj\x64\Release\Database v2.csprojResolveAssemblyReference.cache
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Main.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Passengers.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.PassengersNewAdd.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.PlaceTrain.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.PlaceTrainNew.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Properties.Resources.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Route.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.RouteNew.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Stations.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.StationsNew.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Ticket.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.TicketSell.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Trace.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.TraceNew.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Train.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.TrainNew.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Type.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.TypeNew.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.Wait.resources
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.WaitNewPass.resources
+I:\Database v2\Database v2\obj\x64\Release\Database v2.csproj.GenerateResource.Cache
+I:\Database v2\Database v2\obj\x64\Release\Database_v2.WaitNewPlace.resources
+C:\Users\AS\SkyDrive\42\Database v2\Database v2\bin\x64\Release\Database v2.exe.config
+C:\Users\AS\SkyDrive\42\Database v2\Database v2\obj\x64\Release\Database v2.exe
+C:\Users\AS\SkyDrive\42\Database v2\Database v2\obj\x64\Release\Database v2.pdb

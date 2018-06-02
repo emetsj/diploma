@@ -1,0 +1,20 @@
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\bin\Debug\Database v2.exe.config
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\bin\Debug\Database1.accdb
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\bin\Debug\Database v2.exe
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\bin\Debug\Database v2.pdb
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database v2.csprojResolveAssemblyReference.cache
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Main.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Properties.Resources.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Ticket.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database v2.csproj.GenerateResource.Cache
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database v2.exe
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database v2.pdb
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Wait.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Route.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Train.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.PlaceTrain.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Passengers.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Stations.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Type.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.Trace.resources
+C:\Users\AS\SkyDrive\42\Диплом\Database v2\Database v2\obj\Debug\Database_v2.PassengersNewAdd.resources
